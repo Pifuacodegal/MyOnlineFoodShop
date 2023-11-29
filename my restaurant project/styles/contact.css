@@ -1,0 +1,9 @@
+body{
+    background-color: purple;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.my-input{
+    color: darkblue;
+    background-color: chartreuse;
+}
